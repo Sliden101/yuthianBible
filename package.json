@@ -1,13 +1,13 @@
 {
   "name": "yuthianBible",
   "version": "1.0.0",
-  "description": "",
+  "description": "God's word",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Sliden#6366",
   "license": "ISC",
   "dependencies": {
     "discord.js": "^14.6.0"
