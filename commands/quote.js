@@ -1,5 +1,5 @@
 const { SlashCommandBuilder } = require('discord.js');
-let total = require('./add.js');
+let {total} = require('../list.js');
 module.exports = {
 	data: new SlashCommandBuilder()
 		.setName('quote')
